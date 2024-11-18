@@ -56,7 +56,7 @@ const CurrentMember = () => (
         </div>
       </section>
       <section className="section reverse">
-        <img src="../images/image.png" alt="Parliamentary" className="image" />
+        <img src="./images/parlem.jpeg" alt="Parliamentary" className="image" />
         <div className="text">
           <h2>PARLIAMENTARY</h2>
           <p>
@@ -72,7 +72,7 @@ const CurrentMember = () => (
         </div>
       </section>
       <section className="section">
-        <img src="../images/image.png" alt="Spiritual" className="image" />
+        <img src="./images/kerohanian.jpeg" alt="Spiritual" className="image" />
         <div className="text">
           <h2>SPIRITUAL</h2>
           <p>
@@ -88,7 +88,7 @@ const CurrentMember = () => (
         </div>
       </section>
       <section className="section reverse">
-        <img src="../images/image.png" alt="Education" className="image" />
+        <img src="./images/edu.jpeg" alt="Education" className="image" />
         <div className="text">
           <h2>EDUCATION</h2>
           <p>
@@ -118,7 +118,7 @@ const CurrentMember = () => (
         </div>
       </section>
       <section className="section reverse">
-        <img src="../images/image.png" alt="Multimedia" className="image" />
+        <img src="./images/mulmed.jpeg" alt="Multimedia" className="image" />
         <div className="text">
           <h2>MULTIMEDIA</h2>
           <p>
@@ -150,7 +150,7 @@ const CurrentMember = () => (
         </div>
       </section>
       <section className="section reverse">
-        <img src="../images/image.png" alt="Multimedia" className="image" />
+        <img src="./images/angkatan.jpeg" alt="Multimedia" className="image" />
         <div className="text">
           <h2>SENAT ANGKATAN</h2>
           <p>
