@@ -219,6 +219,255 @@ const CurrentMember = () => (
           </div>
         </div>
       </section>
+      <section className="advisor-section">
+        <div className="advisor-cards">
+          <div className="advisor-card">
+            <img src="" alt="Treasurer" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Treasurer</h3>
+              <p className="advisor-role">Ekklesia Dondokambey</p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 2" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Vice Treasurer</h3>
+              <p className="advisor-role">Franklyn Hosang</p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Vice President</h3>
+              <p className="advisor-role">Riana Keni</p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Secretary</h3>
+              <p className="advisor-role">Meilyan Siwy</p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Spiritual</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Spiritual</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Education</h3>
+              <p className="advisor-role">Deeva Lolong</p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Education</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Education</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Education</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Education</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Sport</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Sport</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Public Relation</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Public Relation</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Public Relation</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Public Relation</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Multimedia</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Multimedia</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Multimedia</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Parliamentary</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Parliamentary</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Parliamentary</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Parliamentary</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Senat Angkatan</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Senat Angkatan</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Senat Angkatan</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Senat Angkatan</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Senat Angkatan</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Senat Angkatan</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Senat Angkatan</h3>
+              <p className="advisor-role"> </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Senat Angkatan</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Senat Angkatan</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Senat Angkatan</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img src="" alt="Advisor 3" className="advisor-image" />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Senat Angkatan</h3>
+              <p className="advisor-role"></p>
+            </div>
+          </div>
+        </div>
+      </section>
     </main>
   </div>
 );
