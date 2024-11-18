@@ -162,6 +162,58 @@ const CurrentMember = () => (
           </p>
         </div>
       </section>
+      <section className="advisor-section">
+        <div className="advisor-cards">
+          <div className="advisor-card">
+            <img
+              src="../images/advisor1.png"
+              alt="Advisor 1"
+              className="advisor-image"
+            />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Advisor</h3>
+              <p className="advisor-role">Senior Advisor</p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img
+              src="../images/advisor2.png"
+              alt="Advisor 2"
+              className="advisor-image"
+            />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Advisor</h3>
+              <p className="advisor-role">Academic Advisor</p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img
+              src="../images/advisor3.png"
+              alt="Advisor 3"
+              className="advisor-image"
+            />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Advisor</h3>
+              <p className="advisor-role">Professional Advisor </p>
+            </div>
+          </div>
+          <div className="advisor-card">
+            <img
+              src="../images/advisor4.png"
+              alt="Advisor 4"
+              className="advisor-image"
+            />
+            <div className="advisor-info">
+              <h3 className="advisor-name">Prof. Emily Davis</h3>
+              <p className="advisor-role">Research Advisor</p>
+            </div>
+          </div>
+          <div className="advisor-president">
+            <h3 className="advisor-name">Wayne Lamansiang</h3>
+            <p className="advisor-role">President</p>
+          </div>
+        </div>
+      </section>
     </main>
   </div>
 );
