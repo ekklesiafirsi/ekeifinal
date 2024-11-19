@@ -102,7 +102,7 @@ const CurrentMember = () => (
       </section>
       <section className="section">
         <img
-          src="../images/image.png"
+          src="./images/PR.jpeg"
           alt="Public Relation"
           className="image"
         />
@@ -354,7 +354,7 @@ const CurrentMember = () => (
             </div>
           </div>
           <div className="advisor-card">
-            <img src="" alt="Advisor 3" className="advisor-image" />
+            <img src="./images/icon.jpg" alt="Advisor 3" className="advisor-image" />
             <div className="advisor-info">
               <h3 className="advisor-name">Sport</h3>
               <p className="advisor-role">Mike Puluntumbage</p>
@@ -362,7 +362,7 @@ const CurrentMember = () => (
           </div>
           <div className="advisor-card">
             <img
-              src="./images/val.JPG"
+              src="./images/icon.jpg"
               alt="Advisor 3"
               className="advisor-image"
             />
@@ -372,42 +372,42 @@ const CurrentMember = () => (
             </div>
           </div>
           <div className="advisor-card">
-            <img src="" alt="Advisor 3" className="advisor-image" />
+            <img src="./images/icon.jpg" alt="Advisor 3" className="advisor-image" />
             <div className="advisor-info">
               <h3 className="advisor-name">Public Relation</h3>
               <p className="advisor-role">Larry Tene</p>
             </div>
           </div>
           <div className="advisor-card">
-            <img src="" alt="Advisor 3" className="advisor-image" />
+            <img src="./images/icon.jpg" alt="Advisor 3" className="advisor-image" />
             <div className="advisor-info">
               <h3 className="advisor-name">Public Relation</h3>
               <p className="advisor-role">Immanuela Griffin</p>
             </div>
           </div>
           <div className="advisor-card">
-            <img src="" alt="Advisor 3" className="advisor-image" />
+            <img src="./images/icon.jpg" alt="Advisor 3" className="advisor-image" />
             <div className="advisor-info">
               <h3 className="advisor-name">Public Relation</h3>
               <p className="advisor-role">Amelia Sugiharto</p>
             </div>
           </div>
           <div className="advisor-card">
-            <img src="" alt="Advisor 3" className="advisor-image" />
+            <img src="./images/icon.jpg" alt="Advisor 3" className="advisor-image" />
             <div className="advisor-info">
               <h3 className="advisor-name">Multimedia</h3>
               <p className="advisor-role">Tiara Mamuaya</p>
             </div>
           </div>
           <div className="advisor-card">
-            <img src="" alt="Advisor 3" className="advisor-image" />
+            <img src="./images/icon.jpg" alt="Advisor 3" className="advisor-image" />
             <div className="advisor-info">
               <h3 className="advisor-name">Multimedia</h3>
               <p className="advisor-role">Djay Nikijuluw</p>
             </div>
           </div>
           <div className="advisor-card">
-            <img src="" alt="Advisor 3" className="advisor-image" />
+            <img src="./images/icon.jpg" alt="Advisor 3" className="advisor-image" />
             <div className="advisor-info">
               <h3 className="advisor-name">Multimedia</h3>
               <p className="advisor-role">Victoria Palilingan</p>
@@ -469,7 +469,7 @@ const CurrentMember = () => (
             </div>
           </div>
           <div className="advisor-card">
-            <img src="" alt="Advisor 3" className="advisor-image" />
+            <img src="./images/icon.jpg" alt="Advisor 3" className="advisor-image" />
             <div className="advisor-info">
               <h3 className="advisor-name">Senat Angkatan</h3>
               <p className="advisor-role">Lovely Kaawoan</p>
@@ -509,7 +509,7 @@ const CurrentMember = () => (
             </div>
           </div>
           <div className="advisor-card">
-            <img src="" alt="Advisor 3" className="advisor-image" />
+            <img src="./images/icon.jpg" alt="Advisor 3" className="advisor-image" />
             <div className="advisor-info">
               <h3 className="advisor-name">Senat Angkatan</h3>
               <p className="advisor-role">Jane Madagaji</p>
