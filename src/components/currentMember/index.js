@@ -133,7 +133,7 @@ const CurrentMember = () => (
       </section>
       <section className="section">
         <img
-          src="../images/image.png"
+          src="./images/icon.jpg"
           alt="Public Relation"
           className="image"
         />
